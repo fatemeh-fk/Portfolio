@@ -13,7 +13,7 @@ import {PopupboxManager,PopupboxContainer}from "react-popupbox";
 import "react-popupbox/dist/react-popupbox.css";
 
 const Project = () => {
-{/*weather*/ }
+/*weather*/ 
     const openPopupboxWeather = () => {
               const content =(
         <>
@@ -64,7 +64,7 @@ fadeInSpeed:500
 }
 
 
-{/*quiz*/ }
+/*quiz*/ 
 const openPopupboxTest = () => {
     const content =(
 <>
@@ -87,7 +87,7 @@ fadeInSpeed:500
 
 }
 
-{/*calculate your bill*/ }
+/*calculate your bill*/ 
 const openPopupboxBill = () => {
     const content =(
 <>
@@ -111,7 +111,7 @@ fadeInSpeed:500
 }
 
 
-{/*chat room*/ }
+/*chat room*/ 
 const openPopupboxChat = () => {
     const content =(
 <>

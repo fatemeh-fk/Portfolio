@@ -25,7 +25,7 @@ const Footer = () => {
                    <p>
                        {/* ©2021 Marquise Group Inc. all rights reserved. */}
                        Copyright&copy;
-                       {new Date().getFullYear()}&nbsp;|All rights reserved.
+                       {new Date().getFullYear()}&nbsp;All rights reserved.
                        </p></div>
              </div>   
          </div>            

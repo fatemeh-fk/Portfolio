@@ -16,7 +16,7 @@ const AboutUS = () => {
 
                                     The Xcode IDE and Swift programming language are the tools that I use every day. Technologies I use are Swift, Java , React , HTML5, CSS and JavaScript. 
 
-                                    I creat the iOS APP and responsive websites that are displayed on all devices including desktop and smartphones.
+                                    I create the iOS APP and responsive websites that are displayed on all devices including desktop and smartphones.
 
                                     My goals are to focus for best app experience, content and delivery of the massage you  want to send to the user
                               </p>

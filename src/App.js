@@ -23,7 +23,7 @@ import Education from "./components/Education";
 import Project from "./components/Project";
 //import Gallery from "./components/Gallery";
 import Contacts from "./components/Contact";
-import Footer from "./components/Footer";
+//import Footer from "./components/Footer";
 function App() {
   return (
  <>
@@ -65,7 +65,7 @@ function App() {
    
  { /*<Gallery />*/}
   <Contacts />
-  <Footer />
+ {/* <Footer />*/} 
 </>
   );
 }

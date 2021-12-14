@@ -10,8 +10,8 @@ const Footer = () => {
                <div className="col text-center pt-5">
                  {/**   <img class="d-inline-block alig-top"src={logofooter}></img>*/}
                    {/* <p> Phone: 4168302729</p> */}
-                   <h6>Phone :+1(437)984-6219</h6>
-                   <h6>Email :fatemeh.ka84@gmail.com</h6>
+                   <h6>Phone :</h6>
+                   <h6>Email :</h6>
                </div>
                {/* <div className="col-lg-4 col-md-6 col-sm-6">
 

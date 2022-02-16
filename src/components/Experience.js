@@ -79,7 +79,7 @@ const Experience = () => {
                </div>
                {/*  */}
 
-               <div className="timeline-block timeline-block-left">
+               <div className="timeline-block timeline-block-right">
                 <div className="marker"></div>
                 <div className="timeline-content">
 
@@ -97,6 +97,26 @@ const Experience = () => {
                 </div>
 
                </div>
+               
+ {/*  */}
+
+                  <div className="timeline-block timeline-block-left">
+                <div className="marker"></div>
+                <div className="timeline-content">
+
+                <h3>2022</h3>
+                    <p><b> Web Developer</b></p>
+                    <p>CarltonOne Engagement, ON, Toronto, Canada</p>
+                    <p>•	Create complex web applications in Vue.js, NativeScript and other modern web
+technologie</p> 
+                    <p>•	Implement bug fixes for existing systems and applications</p>
+                    	<p>Work with other team members to integrate components and expand</p>                                      
+                
+                
+                </div>
+
+               </div>
+
            </div>
        </div>
     )

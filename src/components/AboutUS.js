@@ -10,7 +10,8 @@ const AboutUS = () => {
              </div>
               <div className="col-lg-6 col-xm-12 mt-3">
                   <h2 className="about-heading">About me</h2>
-                            <p>
+                         {/*  
+                          <p>
                               
                                     Hello! My name is Fatemeh and I love to create apps for iPhone and iPad. I studied web and iOS development and have been developing applications and websites for over 3 years. 
 
@@ -20,6 +21,17 @@ const AboutUS = () => {
 
                                     My goals are to focus for best app experience, content and delivery of the massage you  want to send to the user
                               </p>
+                              */} 
+                              <p>
+                              
+                              Hello! My name is Fatemeh and I love to create web & mobile applications. I studied web and iOS development and have been developing applications and websites for over 3 years. 
+
+                              Technologies I use are Swift, Vuejs , React , HTML5, CSS and JavaScript. 
+
+                              I create the  responsive websites that are displayed on all devices including desktop and smartphones.
+
+                              My goals are to focus for best app experience, content and delivery of the massage you  want to send to the user
+                             </p>
                               <p>
                             Let me help you build the exquisite APP of your dreams...
                             </p>
